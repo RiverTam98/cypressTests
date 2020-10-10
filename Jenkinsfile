@@ -4,7 +4,7 @@ pipeline {
     tools {nodejs "node"}
 
     environment {
-        CHROME_BIN = '/bin/google-chrome'
+        CHROME_BIN = '/Users/gailphillips/Drivers/chromedriver'
     }
 
     stages {
